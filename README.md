@@ -75,7 +75,7 @@ With this in mind, I found viewership numbers from four popular networks. From t
 
 After seeing that the genres above were clearly viewed at a much higher rate than others, I wanted to know which of those genres had the highest rating. Expecting Comedy or Drama to have the highest ratings, it was surprising to find that Fantasy actually had the most top ratings. 
 
-![HeatmapGenre](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/HeatmapGenre.png)
+![HeatmapGenre](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/HeatmapGenres.png)
 
 #### Which genre should Microsoft choose for their new TV series? 
 
