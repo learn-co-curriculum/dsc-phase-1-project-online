@@ -3,7 +3,11 @@
 
 In the recent years, the popularity of streaming services has been revolutionized by big tech companies such as YouTube, Netflix, HBO and many others. Consumer's habits have changed in response to this. Why pay for movie tickets at the theater when you can stay home and watch whatever you'd like? 
 
-Because of this trend, we decided to look at success rates of movies and TV shows in the past years to better advise Microsoft in creating successful orginal content. To determine success, it's necessary to look at key areas of the entertainment industry - viewership, ratings, and award nominations. After researching these three areas, we've determined the best route to successful original content is by creating a TV series. 
+Because of this trend, we decided to look at success rates of movies and TV shows in the past years to better advise Microsoft in creating successful orginal content. To determine success, it's necessary to look at key areas of the entertainment industry - viewership, ratings, and award nominations. Beacuse higher viewership corresponds to a larger number of paying subscribers, we believe viewership is the key to success for any original content. It's also been shown that advertising companies pay a premium for shows with higher viewership.
+After researching these three areas, we've determined the best route to successful original content is by creating a TV series. 
+
+PLACEHOLDER SCATTER/ REGRESSION PLOT
+
 
 ### Question 1: What type of content is most successful today? 
 #### What type of content being created today? 
@@ -29,17 +33,9 @@ After pulling shows and actors nominated for major award from the Emmy's site, i
 
 ![TotalNominationsAllNetworks](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/TotalNominationsAllNetworks.png)
 
-#### Which networks are receiving the most independent show and actor nominations? 
-
-Looking at the top three winningest networks, we can see that HBO not only has the highest number of show nominations, but also the most individual actor nominations. 
-
-Of the two award nominations available, the first being a show nomination and the second an actor nomination, HBO is clearly leading the pack in both. Netflix succeeds in show nominations, but has few actor nominations. The below graph also shows that while Netflix has received many nominations for multiple shows, those shows are only nominated for a maximum of 3 awards while some HBO shows have been nominated twice that amount.
-
-![NominationsByNetwork](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/NominationsByNetwork.png)
-
 #### Finally, which network has had the most shows nominated within the last two years? 
 
-Taking a look at the past two years, we can see that seven HBO shows, nine Netflix shows, and only two Prime Video shows have been nominated for an Emmy. One could argue that Netflix has been the most successful considering they have a higher number of shows nominated, however you can see below that the six HBO shows were nominated for a larger number of awards than the Netflix shows. This means that the six HBO shows are more successful than the nine Netflix shows. 
+Looking at the top three winningest networks, we can see that seven HBO shows, nine Netflix shows, and two Prime Video shows have been nominated for an Emmy. One could argue that Netflix has been the most successful considering they have a higher number of shows nominated, however you can see below that the six HBO shows were nominated for a larger number of awards than the Netflix shows. This means that the six HBO shows are more successful than the nine Netflix shows considering more awards were won per show. 
 
 ![TopNetworkShows](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/TopNetworkShows.png)
 
@@ -75,7 +71,7 @@ With this in mind, I found viewership numbers from four popular networks. From t
 
 After seeing that the genres above were clearly viewed at a much higher rate than others, I wanted to know which of those genres had the highest rating. Expecting Comedy or Drama to have the highest ratings, it was surprising to find that Fantasy actually had the most top ratings. 
 
-![HeatmapGenre](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/HeatmapGenres.png)
+![HeatmapGenres](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/HeatmapGenres.png)
 
 #### Which genre should Microsoft choose for their new TV series? 
 
