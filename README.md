@@ -37,7 +37,7 @@ After pulling shows and actors nominated for major award from the Emmy's site, i
 
 Looking at the top three winningest networks, we can see that seven HBO shows, nine Netflix shows, and two Prime Video shows have been nominated for an Emmy. One could argue that Netflix has been the most successful considering they have a higher number of shows nominated, however you can see below that the six HBO shows were nominated for a larger number of awards than the Netflix shows. This means that the six HBO shows are more successful than the nine Netflix shows considering more awards were won per show. 
 
-![TopNetworkShows](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/TopNetworkShows.png)
+![ShowNominations](https://github.com/drrausch/dsc-phase-1-project-online/blob/dana_branch/Images/ShowNominations.png)
 
 #### We believe that HBO is the best network to host Microsoft's new original TV series.
 
