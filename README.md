@@ -20,7 +20,7 @@ Descriptive analytics are used throughout this project to better understand the 
 
 In recent years, the popularity of streaming services has been revolutionized by companies such as YouTube, Netflix, HBO and many others. Consumer's habits have changed in response to this. Why travel to a movie theater to pay a premium on tickets and concessions when you can watch whatever you'd like from the comfort of your own home?
 
-Because of this trend, we decided to look at success rates of movies and TV shows in the past years to better advise Microsoft in creating successful orginal content. To determine success, it's necessary to look at key areas of the entertainment industry - viewership, ratings, and award nominations. Beacuse higher viewership corresponds to a larger number of paying subscribers, we believe viewership is the key to success for any original content. It's also been shown that advertising companies pay a premium for shows with higher viewership.
+Because of this trend, we decided to look at success rates of movies and TV shows in the past years to better advise Microsoft in creating successful orginal content. To determine success, it's necessary to look at key areas of the entertainment industry - viewership, ratings, and award nominations. Because higher viewership corresponds to a larger number of paying subscribers, we believe viewership is the key to success for any original content. It's also been shown that advertising companies pay a premium for shows with higher viewership.
 After researching these three areas, we determined the best strategy for creating original content is by creating a TV series.
 
 ![Advertising](https://github.com/drrausch/dsc-phase-1-project-online/blob/master/Images/Advertising.png)
@@ -55,7 +55,7 @@ After pulling shows and actors nominated for major award from the Emmy's site, i
 
 #### Which network | streaming service has had the most shows nominated? 
 
-Looking at the top three winningest networks, we can see that eight HBO shows, eleven Netflix shows, and two Prime Video shows have been nominated for an Emmyin over the last four years. One could argue that Netflix has been the most successful considering they have a higher number of shows nominated, however you can see below that the eight HBO shows were nominated for a larger number of awards than the Netflix shows. This means that the eight HBO shows are more successful than the eleven Netflix shows considering more awards were won per show. 
+Looking at the top three winningest networks, we can see that eight HBO shows, eleven Netflix shows, and two Prime Video shows have been nominated for an Emmy over the last four years. One could argue that Netflix has been the most successful considering they have a higher number of shows nominated, however you can see below that the eight HBO shows were nominated for a larger number of awards than the Netflix shows. This means that the eight HBO shows are more successful than the eleven Netflix shows considering more awards were won per show. 
 
 ![ShowNominations](https://github.com/drrausch/dsc-phase-1-project-online/blob/master/Images/ShowNominations.png)
 
