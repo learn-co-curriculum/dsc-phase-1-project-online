@@ -110,3 +110,6 @@ To create successful original content, we recommend the following:
 1. Create a TV show as opposed to a movie 
 2. Work with the most successful platform, HBO, to host the new TV show
 3. Create a show with a main genre of Drama while possibly adding elements of either Fantasy or Crime to drive ratings 
+
+If you'd like to review our work, please check out our [Jupyter Notebooks](https://github.com/drrausch/dsc-phase-1-project-online/tree/master/WebScraping) 
+Feel free to connect with us on LinkedIn: [Michael Tiernan](https://www.linkedin.com/in/michaeljohntiernan/) | [Eric Romano](https://www.linkedin.com/in/eric-g-romano/) | [Dana Rausch](https://www.linkedin.com/in/dana-rausch-b73538a6/)
