@@ -6,6 +6,7 @@
 2. [Kaggle - Netflix DB](https://www.kaggle.com/shivamb/netflix-shows) | Available shows and movies on Netflix, supplemental DB from Kaggle
 3. [Emmy's Nominations](https://www.emmys.com/awards/nominees-winners) | Emmy Award Nominations and Winners 
 4. [TV Series](https://tvseriesfinale.com/television-ratings/) | Ratings and Viewership for most popular TV shows by network
+5. [IMDB Rating](https://www.imdb.com/search/title/?title_type=tv_series&start=51&ref_=adv_nxt) | IMDB Ratings for TV shows 
 
 ### Analysis Methods
 
