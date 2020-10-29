@@ -32,5 +32,8 @@ The red regression line shows that there is a clear positive correlation between
 
 ![Test Image 1](download.png)
 
+![Test Image 1](download(1).png)
 
 These are the top ten movie studios based on there total gross income. The graph shows which studios have the highest average gross income per movie. Teaming up with either Dreamworks (P/DW) as the 1st option  or Buena Vistas (BV) as the 2nd option will give you the best probability for a higher grossing movie.
+
+![Test Image 1](download(3).png)
