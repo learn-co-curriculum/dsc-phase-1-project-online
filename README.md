@@ -29,6 +29,8 @@ Fist we took the data loaded it into a jupyter notebook with pandas and turned t
 ## Results
 
 The red regression line shows that there is a clear positive correlation between a larger budget and more gross income for domestic and worldwide gross.
-!download.png
+
+![Test Image 1](download.png)
+
 
 These are the top ten movie studios based on there total gross income. The graph shows which studios have the highest average gross income per movie. Teaming up with either Dreamworks (P/DW) as the 1st option  or Buena Vistas (BV) as the 2nd option will give you the best probability for a higher grossing movie.
